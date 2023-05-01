@@ -4,6 +4,8 @@
 
 [link to project on Figma](https://www.figma.com/file/TA3DzOLGNg249TnMrtkFis/Codebreaker?node-id=1%3A2&t=1npTyb7MRE5D4mTV-1)
 
+## Made with
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
