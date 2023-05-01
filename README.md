@@ -45,3 +45,7 @@ With this in mind, I have decided to learn Typescript before proceeding.
 As of 05/01/23 the app looks like this:
 
 ![iphone13 resized](https://user-images.githubusercontent.com/41316262/235530881-0e199253-c7e1-4544-8421-b800768b3f0c.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
