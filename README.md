@@ -1,19 +1,33 @@
-# Styled Components Example
+# Codebreaker (AKA Mastermind)
 
-<p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
-  <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-</p>
 
-## 🚀 How to use
 
-- Install with `yarn` or `npm install`.
-- Run `yarn start` or `npm run start` to try it out.
+## Prerequisites
 
-## 📝 Notes
+This project requires NodeJS (version 8 or later) and NPM.
+[Node](http://nodejs.org/) and [NPM](https://npmjs.org/) are really easy to install.
+To make sure you have them available on your machine,
+try running the following command.
 
-- [Styled Components docs](https://styled-components.com/)
+```sh
+$ npm -v && node -v
+```
+## Installation
+
+from the root folder of the project enter your terminal and type:
+
+```npm install```
+```npx expo start```
+
+a QR code will show up in your terminal. You will need this for the next step.
+
+## Running your React Native application
+
+Install the Expo Go app on your iOS or Android phone and connect to the same wireless network as your computer.  
+  - On Android, use the Expo Go app to scan the QR code from your terminal to open your project.  
+  - On iOS, use the built-in QR code scanner of the default iOS Camera app.  
+
+## Roadmap
+
+React Native defaults new applications to TypeScript, but JavaScript may still be used.  
+With this in mind, I have decided to learn Typescript before proceeding.
