@@ -1,6 +1,8 @@
 # Codebreaker (AKA Mastermind)
 
+![figma-codebreaker resized](https://user-images.githubusercontent.com/41316262/235530860-b9065d50-080a-477f-af47-c98803875106.png)
 
+[link to project on Figma](https://www.figma.com/file/TA3DzOLGNg249TnMrtkFis/Codebreaker?node-id=1%3A2&t=1npTyb7MRE5D4mTV-1)
 
 ## Prerequisites
 
@@ -29,5 +31,9 @@ Install the Expo Go app on your iOS or Android phone and connect to the same wir
 
 ## Roadmap
 
-React Native defaults new applications to TypeScript, but JavaScript may still be used.  
+React Native defaults new applications to TypeScript (but JavaScript may still be used).  
 With this in mind, I have decided to learn Typescript before proceeding.
+
+As of 05/01/23 the app looks like this:
+
+![iphone13 resized](https://user-images.githubusercontent.com/41316262/235530881-0e199253-c7e1-4544-8421-b800768b3f0c.png)
