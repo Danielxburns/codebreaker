@@ -4,6 +4,10 @@
 
 [link to project on Figma](https://www.figma.com/file/TA3DzOLGNg249TnMrtkFis/Codebreaker?node-id=1%3A2&t=1npTyb7MRE5D4mTV-1)
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+
 ## Prerequisites
 
 This project requires NodeJS (version 8 or later) and NPM.
@@ -16,7 +20,8 @@ $ npm -v && node -v
 ```
 ## Installation
 
-from the root folder of the project enter your terminal and type:
+Navigate to the the root folder of the project  
+In your terminal type:
 
 ```npm install```
 ```npx expo start```
@@ -32,6 +37,7 @@ Install the Expo Go app on your iOS or Android phone and connect to the same wir
 ## Roadmap
 
 React Native defaults new applications to TypeScript (but JavaScript may still be used).  
+
 With this in mind, I have decided to learn Typescript before proceeding.
 
 As of 05/01/23 the app looks like this:
