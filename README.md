@@ -23,11 +23,15 @@ $ npm -v && node -v
 ## Installation
 
 Navigate to the the root folder of the project  
-In your terminal type:
+In your terminal enter:
 
 ```
-npm install  
-npx expo start
+$ npm install  
+```
+
+When it's done installing enter
+````
+$ npx expo start
 ```
 
 a QR code will show up in your terminal. You will need this for the next step.
