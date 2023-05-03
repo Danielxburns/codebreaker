@@ -26,9 +26,7 @@ Navigate to the the root folder of the project
 In your terminal type:
 
 ```
-npm install
-```
-```
+npm install  
 npx expo start
 ```
 
