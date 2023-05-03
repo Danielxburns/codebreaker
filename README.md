@@ -31,7 +31,7 @@ $ npm install
 
 When it's done installing enter
 
-````
+```
 $ npx expo start
 ```
 
