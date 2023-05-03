@@ -35,7 +35,7 @@ When it's done installing enter
 $ npx expo start
 ```
 
-a QR code will show up in your terminal. You will need this for the next step.
+a QR code will show up in your terminal. Follow the next step to scan it into your phone.
 
 ## Running your React Native application
 
