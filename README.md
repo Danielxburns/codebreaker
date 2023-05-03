@@ -25,8 +25,12 @@ $ npm -v && node -v
 Navigate to the the root folder of the project  
 In your terminal type:
 
-```npm install```
-```npx expo start```
+```
+npm install
+```
+```
+npx expo start
+```
 
 a QR code will show up in your terminal. You will need this for the next step.
 
@@ -40,7 +44,7 @@ Install the Expo Go app on your iOS or Android phone and connect to the same wir
 
 React Native defaults new applications to TypeScript (but JavaScript may still be used).  
 
-With this in mind, I have decided to learn Typescript before proceeding.
+With this in mind, learning more about React Native without first learning Typescript didn't seem like the wisest path to take. I have decided to learn Typescript before proceeding.
 
 As of 05/01/23 the app looks like this:
 
